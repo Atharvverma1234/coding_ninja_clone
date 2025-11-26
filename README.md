@@ -1,16 +1,72 @@
-# React + Vite
+# Coding Ninjas Clone – React + Vite + Tailwind
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A front-end clone of the Coding Ninjas website built using React, Vite, and Tailwind CSS for learning and practice purposes.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Live Demo: https://your-deployed-link.com  
+  (Update this link after deployment.)
 
-## React Compiler
+## Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Home page with hero section and navigation.
+- Courses page with course cards and “Enroll” buttons.
+- Responsive navbar and footer.
+- Routing between pages (Home, Courses, Contact, etc.).
+- Fully responsive UI using Tailwind CSS.
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React
+- Vite
+- Tailwind CSS
+- React Router
+- JavaScript / JSX
+
+
+## Getting Started
+
+### Prerequisites
+
+- Node.js (LTS)
+- npm or yarn
+
+### Installation
+
+git clone https://github.com/your-username/coding-ninjas-clone.git
+cd coding-ninjas-clone
+npm install
+
+### Run Locally
+
+npm run dev
+
+text
+
+Open the URL shown in the terminal (usually `http://localhost:5173`).
+
+## Usage
+
+- Use the navbar to navigate between Home, Courses, and Contact.
+- Browse courses on the Courses page.
+- Click “Enroll” to trigger sample actions (e.g., alert, modal, or navigation), depending on your implementation.
+
+## Screenshots
+
+_Add screenshots after you build the UI:_
+
+- Home page screenshot
+- Courses page screenshot
+- Mobile view screenshot
+
+## Future Improvements
+
+- Add authentication (login/signup).
+- Connect to a backend and database for real course data.
+- Add a user dashboard for enrolled students.
+- Integrate payment or checkout flow (for demo only).
+
+## Disclaimer
+
+This project is a non-commercial educational clone of the Coding Ninjas website.  
+All trademarks, logos, and original assets belong to their respective owners.
