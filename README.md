@@ -33,7 +33,7 @@ A front-end clone of the Coding Ninjas website built using React, Vite, and Tail
 
 ### Installation
 
-- git clone https://github.com/your-username/coding-ninjas-clone.git
+- git clone https://github.com/Atharvverma1234/coding_ninja_clone.git
 - cd coding-ninjas-clone
 - npm install
 
