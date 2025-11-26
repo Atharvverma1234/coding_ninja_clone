@@ -4,8 +4,8 @@ A front-end clone of the Coding Ninjas website built using React, Vite, and Tail
 
 ## Demo
 
-- Live Demo: https://your-deployed-link.com  
-  (Update this link after deployment.)
+- Live Demo: https://coding-ninja-clone-rose.vercel.app/
+
 
 ## Features
 
@@ -33,15 +33,15 @@ A front-end clone of the Coding Ninjas website built using React, Vite, and Tail
 
 ### Installation
 
-git clone https://github.com/your-username/coding-ninjas-clone.git
-cd coding-ninjas-clone
-npm install
+- git clone https://github.com/your-username/coding-ninjas-clone.git
+- cd coding-ninjas-clone
+- npm install
 
 ### Run Locally
 
 npm run dev
 
-text
+
 
 Open the URL shown in the terminal (usually `http://localhost:5173`).
 
@@ -51,20 +51,7 @@ Open the URL shown in the terminal (usually `http://localhost:5173`).
 - Browse courses on the Courses page.
 - Click “Enroll” to trigger sample actions (e.g., alert, modal, or navigation), depending on your implementation.
 
-## Screenshots
 
-_Add screenshots after you build the UI:_
-
-- Home page screenshot
-- Courses page screenshot
-- Mobile view screenshot
-
-## Future Improvements
-
-- Add authentication (login/signup).
-- Connect to a backend and database for real course data.
-- Add a user dashboard for enrolled students.
-- Integrate payment or checkout flow (for demo only).
 
 ## Disclaimer
 
